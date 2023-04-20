@@ -1,5 +1,5 @@
 import React from "react"
-import { price } from "../../dummydata"
+
 
 const PriceCard = () => {
   return (
